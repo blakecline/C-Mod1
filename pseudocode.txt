@@ -1,0 +1,7 @@
+START
+Display first name
+Display last name
+Display street address
+Display city
+Display zip code
+END
